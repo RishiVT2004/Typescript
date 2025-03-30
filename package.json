@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new.js",
+  "scripts": {
+    "dev" : "tsc  && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishiVT2004/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishiVT2004/Typescript/issues"
+  },
+  "homepage": "https://github.com/RishiVT2004/Typescript#readme",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
