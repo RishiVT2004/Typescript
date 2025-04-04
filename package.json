@@ -19,5 +19,6 @@
   "homepage": "https://github.com/RishiVT2004/Typescript#readme",
   "dependencies": {
     "typescript": "^5.8.2"
-  }
+  },
+  "type": "module"
 }

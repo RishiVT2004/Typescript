@@ -51,5 +51,12 @@ args -> values at index i
 
 */
 
+function name(first : string , last : string) : string {
+    return "my name is " + first + " " + last
+}
+
+function date(day : number , month : string , year : number) : string | number {
+    return "my DOB is "+day+" "+month+" "+year;
+}
 
 export{};
