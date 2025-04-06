@@ -59,4 +59,12 @@ function date(day : number , month : string , year : number) : string | number {
     return "my DOB is "+day+" "+month+" "+year;
 }
 
+let arr : number[] = [];
+for(let i = 0;i<10;i++){
+    if(i % 2 == 0){
+        arr[i] = i;
+    }
+}
+console.log(arr)
+
 export{};
